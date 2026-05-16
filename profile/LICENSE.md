@@ -25,5 +25,6 @@ THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS "AS IS" AND 
 Any disputes arising under this license agreement shall be governed exclusively by the laws of the Republic of Kenya, and resolved within competent courts of jurisdiction in Nairobi.
 
 For licensing inquiries, legal clearances, or enterprise permissions, contact:
-* **Email:** legal@tuinnov8.com / info@tuinnov8.com
-* **Corporate Registry:** TUINNOV8 SOLUTIONS LTD, Kenya
+* **📧 Email:** [legal@tuinnov8.com](mailto:legal@tuinnov8.com) / [info@tuinnov8.com](mailto:info@tuinnov8.com)
+* **🌐 Website:** [www.tuinnov8.com](https://www.tuinnov8.com)
+* **📍 Corporate Registry:** TUINNOV8 SOLUTIONS LTD, Kenya
